@@ -1,0 +1,15 @@
+h3 {
+    text-align: center;
+    padding: 30px 15px;
+    color: white;
+    background-color: rgb(156, 156, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+h2 {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    color: pink;
+}
